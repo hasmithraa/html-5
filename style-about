@@ -1,0 +1,49 @@
+.navbar{
+    background-color:transparent;
+        display: inline-flex;  
+}        
+h1{
+    font-family: cursive;
+    color:brown ;
+    text-align: center;
+    font-size: 290%;
+    display: inline-flex;
+    position: relative;
+    left: 50px;
+}
+#h2-1{
+    display: inline-flex;
+    position: relative;
+    left: 90px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+    color: indigo;
+}  
+#h2-2{
+    display: inline-flex;
+    position: relative;
+    left: 130px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}   
+ 
+#h2-3{
+    display: inline-flex;
+    position: relative;
+    left: 170px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}   
+.navbar ul li a{
+    text-decoration: none;
+    color: palevioletred;
+}
+#b1{
+    background-image: url(bg2.jpg);
+    background-repeat: inherit;
+}
+#p1{
+    font-family: fantasy;
+    text-align: justify;
+    font-size: 150%;
+}
