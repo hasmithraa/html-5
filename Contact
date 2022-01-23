@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="E:\hasmithraa\lets upgrad\style4.css" type="text/css"> 
+        <title>Contact</title>
+    </head>
+<body id="b1">
+        <div class="wrapper">
+            <nav class="navbar">
+                <img src="E:\hasmithraa\lets upgrad\GPM logo.png" alt="logo" width="150">
+                <h1>GREEN PLANET MACHINES</h1>
+                <list>
+                    <ul>
+                        <li id="h2-1"><h2><a href="file:///E:/hasmithraa/lets%20upgrad/html-5%20home.html">Home</a></h2></li>
+                        <li id="h2-2"><h2><a href="file:///E:/hasmithraa/lets%20upgrad/html-5%20About%20US.html">About Us</a></h2></li>
+                        <li id="h2-3"><h2><a href="file:///E:/hasmithraa/lets%20upgrad/html-5%20Contact.html">Contact</a></h2> </li>
+                    </ul>
+                </list>   
+                
+            </nav>
+        </div><br>
+        <br>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244.7006482808222!2d76.92107745286465!3d11.097693090502515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba8f67f00000011%3A0x1d047d8bef02e393!2sMarachekku!5e0!3m2!1sen!2sin!4v1642913675788!5m2!1sen!2sin"
+         width="400" height="300" style="border:double;border-color: black;position:relative;left:50px;display: inline-flex;" allowfullscreen="" loading="lazy"></iframe>
+         <form>
+            <h3>Customer Enquiry</h3><br>
+            <label for="Name"><b id="f1">CUSTOMER NAME:</b></label> <br>
+            <input type="text" placeholder="Name" id="f1"> <br><br>
+            <label for="Contact"><b id="f1">CONTACT NUMBER:</b></label> <br>
+            <input type="number" placeholder="Contact" id="f1"> <br><br>
+            <label for="Email"><b id="f1">EMAIL ID:</b></label> <br>
+            <input type="email" placeholder="Email" id="f1"> <br><br>    
+            <label for="Query"><b id="f1">ENQUIRY INFORMATION:</b></label> <br>
+            <input type="text" placeholder="Query" id="f1"> <br><br> 
+            <input type="submit" value="SUBMIT" id="f1">
+        </form>    
+</body>
+</html>        
