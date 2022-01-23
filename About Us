@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="E:\hasmithraa\lets upgrad\style3.css" type="text/css"> 
+        <title>About Us</title>
+    </head>
+<body id="b1">
+        <div class="wrapper">
+            <nav class="navbar">
+                <img src="E:\hasmithraa\lets upgrad\GPM logo.png" alt="logo" width="150">
+                <h1>GREEN PLANET MACHINES</h1>
+                <list>
+                    <ul>
+                        <li id="h2-1"><h2><a href="file:///E:/hasmithraa/lets%20upgrad/html-5%20home.html">Home</a></h2></li>
+                        <li id="h2-2"><h2><a href="file:///E:/hasmithraa/lets%20upgrad/html-5%20About%20US.html">About Us</a></h2></li>
+                        <li id="h2-3"><h2><a href="file:///E:/hasmithraa/lets%20upgrad/html-5%20Contact.html">Contact</a></h2> </li>
+                    </ul>
+                </list>   
+            </nav>
+        </div>
+        <p id="p1">A Coimbatore based company established in 1970’s, 
+            involved in manufacturing wide range of engineering products, kitchen equipment,
+             Sugarcane Juicer Machines  and agriculture oriented and oil extraction machines. 
+             We are passionate in manufacturing a quality MARA CHEKKU Oil Machine which produces cold pressed organic oil.
+             We would like to facilitate several youth to turn into successful entrepreneurs and 
+             re-establish the pride of our marachekku oil (Cold pressed oil).
+             <list>
+                <ul id="p1">
+                   <li>Good infrastructure for Manufacturing</li> 
+                   <li>Experts in Engineering</li> 
+                    <li>Timely Service</li>
+                    <li>Maintenance Support</li>
+                    <li>Environmental Friendly Products and Manufacturing</li>
+                </ul>
+             </list>
+
+        </p>        
+</body>    
+</html>
